@@ -54,7 +54,7 @@
                     android:id="@+id/textView2.1"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Датчик №1" />
+                    android:text="Датчик №2" />
 
                 <TextView
                     android:id="@+id/textView2.2"
@@ -80,7 +80,7 @@
                     android:id="@+id/textView3.1"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Датчик №1" />
+                    android:text="Датчик №3" />
 
                 <TextView
                     android:id="@+id/textView3.2"
@@ -113,7 +113,7 @@
                     android:id="@+id/textView4.1"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Датчик №1" />
+                    android:text="Датчик №4" />
 
                 <TextView
                     android:id="@+id/textView4.2"
@@ -139,7 +139,7 @@
                     android:id="@+id/textView5.1"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Датчик №1" />
+                    android:text="Датчик №5" />
 
                 <TextView
                     android:id="@+id/textView5.2"
@@ -166,7 +166,7 @@
                     android:id="@+id/textView6.1"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Датчик №1" />
+                    android:text="Датчик №6" />
 
                 <TextView
                     android:id="@+id/textView6.2"
@@ -190,6 +190,13 @@
         android:layout_height="fill_parent"
         android:layout_weight="40"
         app:srcCompat="@drawable/yearwtemp_9492" />
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="60"
+        android:text="TextView" />
 
 </LinearLayout>
 
